@@ -1,0 +1,9 @@
+{
+  "name": "DopeDollars",
+  "description": "A bot for handling DopeDollars transactions on TON.",
+  "url": "https://t.me/dopedollars_bot",
+  "iconUrl": "https://dopedollars.ton/icon.png",  // Replace with a link to your bot’s icon
+  "termsUrl": "https://dopedollars.ton/terms",  // Optional: Link to terms of service
+  "privacyUrl": "https://dopedollars.ton/privacy",  // Optional: Link to privacy policy
+  "tonDomain": "dopedollars.ton"  // TON domain associated with DopeDollars
+}
